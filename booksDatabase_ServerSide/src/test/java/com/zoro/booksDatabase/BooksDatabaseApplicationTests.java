@@ -1,0 +1,13 @@
+package com.zoro.booksDatabase;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class BooksDatabaseApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
